@@ -34,6 +34,7 @@
 ## :iphone: Como visualizar
 
 <p>Para testar o projeto, basta cloná-lo para sua máquina, acessar a pasta do mesmo e inserir o comando "yarn" e posteriormente "yarn dev" em seu terminal de preferência!</p>
+
 ---
 
 Feito com ❤ por Leonardo Henrique :kissing: [Contato](https://www.linkedin.com/in/leonardo-henrique-33a3ab210)
