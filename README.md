@@ -4,10 +4,10 @@
 
 <p align="center">
   <br>
-  <img src="https://img.shields.io/github/languages/top/leohpc/NLW_Impulse_Return_Web">
-  <img src="https://img.shields.io/github/issues/leohpc/NLW_Impulse_Return_Web">
-  <img src="https://img.shields.io/github/forks/leohpc/NLW_Impulse_Return_Web">
-  <img src="https://img.shields.io/github/stars/leohpc/NLW_Impulse_Return_Web">
+  <img src="https://img.shields.io/github/languages/top/leohpc/desafio-01-ignite-react">
+  <img src="https://img.shields.io/github/issues/leohpc/desafio-01-ignite-react">
+  <img src="https://img.shields.io/github/forks/leohpc/desafio-01-ignite-react">
+  <img src="https://img.shields.io/github/stars/leohpc/desafio-01-ignite-react">
   <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=E51C44">
 </p>
 
